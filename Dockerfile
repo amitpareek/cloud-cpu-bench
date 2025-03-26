@@ -1,4 +1,4 @@
-FROM alpine:3.5
+FROM alpine:latest
 
 ENV STARVE_CHECK_COMMIT=f14d7ba8152c8e09179fea3f47fd6b3a93f13cae
 
